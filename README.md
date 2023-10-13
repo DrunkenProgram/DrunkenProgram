@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DrunkenProgram
 - 👀 I’m interested in Java Spring
-- 🌱 I’m currently learning ... mvc2
+- 🌱 I’m currently learning mvc2
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me drunkenprogram@gmail.com
 
 <!---
 DrunkenProgram/DrunkenProgram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
